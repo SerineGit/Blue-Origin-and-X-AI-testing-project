@@ -1,40 +1,49 @@
-# Blue Origin & X-AI Testing Project
+# QA MISSION: Solar System Overview
 
-🚀 **Comprehensive Testing Framework for Blue Origin and X-AI Applications**
+**Comprehensive Testing Framework for Blue Origin and X.AI Applications**
 
-![Testing](https://img.shields.io/badge/Testing-Comprehensive-blue)
-![Playwright](https://img.shields.io/badge/Playwright-E2E-green)
-![API Testing](https://img.shields.io/badge/API-Testing-orange)
-![Security](https://img.shields.io/badge/Security-Testing-red)
-![Performance](https://img.shields.io/badge/Performance-Testing-yellow)
+End-to-end quality assurance solution for Blue Origin's website and X.AI Grok API, covering UI automation and API testing with robust validation of functionality, performance, and reliability.
 
-## 📋 Overview
+## 🎯 Testing Scope
 
-This project provides a complete testing solution covering multiple aspects of quality assurance for Blue Origin and X-AI applications. It includes automated testing frameworks, documentation, and cloud-based automation tools to ensure comprehensive coverage across all testing domains.
+| Component | Testing Type | Tools | Coverage |
+|-----------|-------------|--------|----------|
+| **Website Testing** | Manual & Automated UI | Selenium | Positive, Negative, Unit testing |
+| **Blue Origin API** | REST API Validation | Postman Collections | Accuracy, Performance, Error handling |
+| **X.AI Grok API** | REST API Validation | Postman Collections | AI Response verification, Stability |
 
-## 🎯 Project Scope
+## 🛠 Tech Stack
 
-### Testing Coverage Areas:
-- **Frontend Testing** - User interface and user experience validation
-- **API Testing** - Backend service integration and functionality verification
-- **Performance Testing** - Load, stress, and scalability testing
-- **Security Testing** - Vulnerability assessment and security compliance
-- **Cloud Automation Testing** - Infrastructure and deployment validation
-- **QA Documentation** - Test plans, strategies, and reporting
+| Category | Technologies |
+|----------|-------------|
+| **UI Automation** | Selenium WebDriver, Python/Java |
+| **API Testing** | Postman, Newman, REST |
+| **Reporting** | HTML Reports, JSON, Screenshots |
+| **CI/CD** | GitHub Actions (optional) |
 
-## 🛠️ Technology Stack
+## 🚀 Quick Start
 
-- **Playwright** - End-to-end testing framework
-- **API Testing Tools** - REST/GraphQL service validation
-- **Performance Testing** - Load and stress testing utilities
-- **Security Testing** - Automated vulnerability scanning
-- **Cloud Automation** - Infrastructure as Code testing
-- **Documentation** - Comprehensive QA documentation suite
+| Step | Command |
+|------|---------|
+| **Clone** | `git clone <repository-url>` |
+| **Install** | `pip install -r requirements.txt` |
+| **Setup Drivers** | Download ChromeDriver/GeckoDriver to PATH |
+| **Run UI Tests** | `python -m pytest ui-tests/` |
+| **Run API Tests** | `newman run api-tests/collection.json` |
 
-## 📄 License
+## 👥 Team Members
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+| Name | Role | GitHub | LinkedIn |
+|------|------|--------|----------|
+| **Sergey Efremov** | Project Manager | [SergioUS](https://github.com/SergioUS) | [LinkedIn](https://www.linkedin.com/in/sefremoff/) |
+| **Tatsiana Lentz** | Team Lead | [TatsianaLentz](https://github.com/TatsianaLentz) | [LinkedIn](https://www.linkedin.com/in/tatsianalentz/) |
+| **Anton Buyanovski** | QA Engineer | [abuyanovski](https://github.com/abuyanovski) | [LinkedIn](https://www.linkedin.com/in/antonb-qa/) |
+| **Azady Esenov** | QA Engineer | [azesnv](https://github.com/azesnv) | [LinkedIn](https://www.linkedin.com/in/azadyesenov/) |
+| **Diana Abdullaeva** | QA Engineer | [diana-abdullaeva](https://github.com/diana-abdullaeva) | [LinkedIn](https://www.linkedin.com/in/diana-abdullaeva-087216211/) |
+| **Elena Otrosnova** | QA Engineer | [elenaotrosnova](https://github.com/elenaotrosnova) | [LinkedIn](https://www.linkedin.com/in/elena-otrosnova/) |
+| **Julia Delmar** | QA Engineer | [JuliaDel](https://github.com/JuliaDel) | [LinkedIn](https://www.linkedin.com/in/julia-delmar/) |
+| **Sergiy Borovich** | QA Engineer | [SBorovich](https://github.com/SBorovich) | [LinkedIn](https://www.linkedin.com/in/sergiy-borovich/) |
+| **Serine Zargaryan** | QA Engineer | [SerineGit](https://github.com/SerineGit) | [LinkedIn](https://www.linkedin.com/in/serinezargaryan/) |
+| **Viktor Pervushkin** | QA Engineer | [1vpfcb](https://github.com/1vpfcb) | [LinkedIn](https://www.linkedin.com/in/viktp/) |
 
-**Happy Testing!** 🧪✨
 
-*Built with ❤️ for comprehensive quality assurance*
