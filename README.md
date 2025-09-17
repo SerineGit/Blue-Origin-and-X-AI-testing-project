@@ -31,7 +31,6 @@
 
 ### 🌐 **Website Testing**
 **Manual & Automated UI**
-- 🔧 *Selenium, BrowserStack*
 - ✅ Positive Testing
 - ❌ Negative Testing  
 - 🧪 Unit Testing
