@@ -2,7 +2,7 @@
 
 <div align="center">
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" class="video__last-video" width="350" height="250" title="Последний видосик на канале" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed?listType=playlist&list=UUzS4sE_0ltfSz6qx_FUCTdA"></iframe>
 
 [![Quality Assurance](https://img.shields.io/badge/Quality-Assurance-blue.svg?style=for-the-badge)](https://github.com)
 [![Testing](https://img.shields.io/badge/Testing-Automation-green.svg?style=for-the-badge)](https://github.com)
