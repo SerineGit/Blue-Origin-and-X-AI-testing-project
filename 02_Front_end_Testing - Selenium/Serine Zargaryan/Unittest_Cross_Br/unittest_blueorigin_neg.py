@@ -376,10 +376,10 @@ if __name__ == "__main__":
     # html report runner
 # if __name__ == '__main__':
 #         # 1. Create a TestLoader instance to find tests
-#         loader = unittest.TestLoader()
+#         loader = tests.TestLoader()
 #
 #         # 2. Create a TestSuite to hold all the tests you want to run
-#         suite = unittest.TestSuite()
+#         suite = tests.TestSuite()
 #
 #         # 3. Add tests from each browser-specific class to the suite
 #         # This makes it easy to comment out a browser if you only want to test one or two.
@@ -410,4 +410,4 @@ if __name__ == "__main__":
 
     #allure report runner
 # if __name__ == "__main__":
-#         unittest.main(AllureReports)
+#         tests.main(AllureReports)
