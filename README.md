@@ -10,15 +10,7 @@
 
 *End-to-end quality assurance solution for Blue Origin's website and X.AI Grok API, covering UI automation and API testing with robust validation of functionality, performance, and reliability.*
 
-
-
-
-
-
 https://github.com/user-attachments/assets/97f6c6ef-1f0a-48f4-b75e-2827eaf728c8
-
-
-
 
 ### 🎉 **Don't Like Boring READMEs?** 
 
