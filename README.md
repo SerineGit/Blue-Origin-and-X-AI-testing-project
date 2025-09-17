@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="left" width="25%">
 
 ### 🌐 **Website Testing**
 **Manual & Automated UI**
@@ -37,7 +37,7 @@
 - 🧪 Unit Testing
 
 </td>
-<td align="center" width="25%">
+<td align="left" width="25%">
 
 ### 🛸 **Blue Origin API**
 **REST API Validation**
@@ -46,7 +46,7 @@
 - ❌ Negative Testing 
 
 </td>
-<td align="center" width="25%">
+<td align="left" width="25%">
 
 ### 🤖 **X.AI Grok API**
 **REST API Validation**
@@ -56,7 +56,7 @@
 
 
 </td>
-<td align="center" width="25%">
+<td align="left" width="25%">
 
 ### 🌍 **Cross-Browser**
 **Cloud Testing**
