@@ -10,9 +10,18 @@
 
 *End-to-end quality assurance solution for Blue Origin's website and X.AI Grok API, covering UI automation and API testing with robust validation of functionality, performance, and reliability.*
 
-</div>
+
+
+### 🎉 **Don't Like Boring READMEs?** 
+
+**Visit Our Interactive Project Page!** ✨
+
+<a href="https://serinegit.github.io/Blue-Origin-and-X-AI-project-page/" target="_blank">
+<img src="https://img.shields.io/badge/🌟%20Interactive%20Page-Visit%20Now!-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=4ECDC4" alt="Interactive Project Page" />
+</a>
 
 ---
+</div>
 
 ## 🎯 **Testing Scope Overview**
 
