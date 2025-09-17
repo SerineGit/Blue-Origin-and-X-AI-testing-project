@@ -69,12 +69,12 @@
 
 | 🎨 **Category** | 🔧 **Technologies** |
 |:---:|:---|
-| **🎯 UI Automation** | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) |
-| **☁️ Cloud Testing** | ![BrowserStack](https://img.shields.io/badge/-BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white) Selenium Grid |
+| **🎯 UI Automation** | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **☁️ Cloud Testing** | ![BrowserStack](https://img.shields.io/badge/-BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white) |
 | **🔗 API Testing** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) Newman, REST |
 | **📋 Project Management** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) |
 | **📊 Reporting** | HTML Reports, JSON, Screenshots |
-| **🔄 CI/CD** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) Actions |
+| **🔄 CI/CD** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  |
 
 </div>
 
@@ -96,7 +96,7 @@
 <a href="https://www.linkedin.com/in/sefremoff/">💼 LinkedIn</a>
 </td>
 <td align="center" width="50%">
-<img src="https://github.com/TatsianaLentz.png" width="80" style="border-radius: 50%"/><br>
+<img src="https://serinegit.github.io/Blue-Origin-and-X-AI-project-page/img/team/Tatsiana.jpg" width="80" style="border-radius: 50%"/><br>
 <b>👑 Tatsiana Lentz</b><br>
 <i>Team Lead</i><br>
 <a href="https://github.com/TatsianaLentz">📁 GitHub</a> • 
