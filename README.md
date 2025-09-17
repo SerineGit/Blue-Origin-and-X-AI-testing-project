@@ -16,33 +16,9 @@ End-to-end quality assurance solution for Blue Origin's website and X.AI Grok AP
 | **UI Automation** | Selenium WebDriver, Python/Java |
 | **Cloud Testing** | BrowserStack, Selenium Grid |
 | **API Testing** | Postman, Newman, REST |
-| **Project Management** | Jira, Confluence |
+| **Project Management** | Jira, Slack |
 | **Reporting** | HTML Reports, JSON, Screenshots |
-| **CI/CD** | GitHub Actions (optional) |
-## 🌐 Cloud Testing Infrastructure
-| Component | Service | Purpose |
-|-----------|---------|---------|
-| **Browser Stack** | BrowserStack Automate | Cross-browser testing on real devices |
-| **Selenium Grid** | Cloud Grid | Parallel test execution |
-| **Device Coverage** | 3000+ Real Devices | Mobile & Desktop testing |
-| **OS Support** | Windows, macOS, iOS, Android | Complete platform coverage |
-## 📋 Project Management
-| Tool | Usage | Integration |
-|------|-------|-------------|
-| **Jira** | Issue tracking, Sprint planning | GitHub integration |
-| **Test Cases** | Jira Xray/Zephyr | Test execution tracking |
-| **Bug Reports** | Jira Issues | Automated bug creation |
-| **Dashboards** | Jira Reports | Real-time project metrics |
-## 🚀 Quick Start
-| Step | Command |
-|------|---------|
-| **Clone** | `git clone <repository-url>` |
-| **Install** | `pip install -r requirements.txt` |
-| **Setup Drivers** | Download ChromeDriver/GeckoDriver to PATH |
-| **BrowserStack Setup** | Configure BS_USERNAME & BS_ACCESS_KEY |
-| **Run UI Tests** | `python -m pytest ui-tests/` |
-| **Run Cloud Tests** | `python -m pytest ui-tests/ --browserstack` |
-| **Run API Tests** | `newman run api-tests/collection.json` |
+| **CI/CD** | GitHub  |
 ## 👥 Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
