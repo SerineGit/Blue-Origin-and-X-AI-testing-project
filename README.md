@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<video src="demo.mp4" controls></video>
+<video src="https://github.com/SerineGit/Blue-Origin-and-X-AI-project-page/blob/main/XAI%20Blue%20Origin.mp4" controls></video>
 
 [![Quality Assurance](https://img.shields.io/badge/Quality-Assurance-blue.svg?style=for-the-badge)](https://github.com)
 [![Testing](https://img.shields.io/badge/Testing-Automation-green.svg?style=for-the-badge)](https://github.com)
