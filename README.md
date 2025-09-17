@@ -1,4 +1,4 @@
-# QA MISSION: Solar System Overview
+<div align="center"># QA MISSION: Blue Origin & X.AI.Grock
 
 **Comprehensive Testing Framework for Blue Origin and X.AI Applications**
 
@@ -46,4 +46,5 @@ End-to-end quality assurance solution for Blue Origin's website and X.AI Grok AP
 | **Serine Zargaryan** | QA Engineer | [SerineGit](https://github.com/SerineGit) | [LinkedIn](https://www.linkedin.com/in/serinezargaryan/) |
 | **Viktor Pervushkin** | QA Engineer | [1vpfcb](https://github.com/1vpfcb) | [LinkedIn](https://www.linkedin.com/in/viktp/) |
 
+ </div>
 
