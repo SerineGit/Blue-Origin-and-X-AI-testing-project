@@ -2,7 +2,10 @@
 
 <div align="center">
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+  <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Watch the video" />
+</a>
+
 
 
 [![Quality Assurance](https://img.shields.io/badge/Quality-Assurance-blue.svg?style=for-the-badge)](https://github.com)
