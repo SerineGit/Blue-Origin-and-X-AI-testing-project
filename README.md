@@ -33,9 +33,8 @@
 ### 🛸 **Blue Origin API**
 **REST API Validation**
 - 📮 *Postman Collections*
-- 🎯 Accuracy Testing
-- ⚡ Poseitve Testing
-- 🚨 Negative Testing
+- ✅ Positive Testing
+- ❌ Negative Testing 
 
 </td>
 <td align="center" width="25%">
@@ -45,7 +44,7 @@
 - 📮 *Postman Collections*
 - 🧠 AI Response Verification
 - 🔒 Stability Testing
-- 📊 Performance Metrics
+
 
 </td>
 <td align="center" width="25%">
