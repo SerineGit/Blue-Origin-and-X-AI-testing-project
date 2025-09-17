@@ -63,7 +63,7 @@
 - ☁️ *BrowserStack Grid*
 - 🖥️ Multi-browser Support
 - 📱 Multi-device Validation
-- 🔄 Compatibility Testing
+
 
 </td>
 </tr>
