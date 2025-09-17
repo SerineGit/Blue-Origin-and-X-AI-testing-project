@@ -34,8 +34,8 @@
 **REST API Validation**
 - 📮 *Postman Collections*
 - 🎯 Accuracy Testing
-- ⚡ Performance Testing
-- 🚨 Error Handling
+- ⚡ Poseitve Testing
+- 🚨 Negative Testing
 
 </td>
 <td align="center" width="25%">
