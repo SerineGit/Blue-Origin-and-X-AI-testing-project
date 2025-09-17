@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<video src="https://github.com/SerineGit/Blue-Origin-and-X-AI-project-page/blob/main/XAI%20Blue%20Origin.mp4" controls></video>
-
 [![Quality Assurance](https://img.shields.io/badge/Quality-Assurance-blue.svg?style=for-the-badge)](https://github.com)
 [![Testing](https://img.shields.io/badge/Testing-Automation-green.svg?style=for-the-badge)](https://github.com)
 [![API](https://img.shields.io/badge/API-Validation-orange.svg?style=for-the-badge)](https://github.com)
@@ -12,6 +10,13 @@
 
 *End-to-end quality assurance solution for Blue Origin's website and X.AI Grok API, covering UI automation and API testing with robust validation of functionality, performance, and reliability.*
 
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/k_Y-9lgYID8"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 
 ### 🎉 **Don't Like Boring READMEs?** 
